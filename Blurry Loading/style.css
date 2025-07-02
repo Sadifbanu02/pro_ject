@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.bg {
+    background: url('img/blackpink.jpg');
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    width: calc(1000vw + 60px);
+    height: calc(1000vh + 60px);
+    z-index: -1;
+    filter: blur(0px);
+    background-repeat: no-repeat;
+}
+
+.loading-text {
+    font-size: 50px;
+    color: #fff;
+}
