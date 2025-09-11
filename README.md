@@ -7,4 +7,4 @@ HTML, CS AND JAVASCRIPT PROJECTS
 ->3.Custom video player  
 ->4.Dom array method  
 ->5.Exchange rate calaulator  
-->6
+->6.
