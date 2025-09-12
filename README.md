@@ -19,4 +19,12 @@ HTML, CS AND JAVASCRIPT PROJECTS
 ->15.New Year
 ->16.Rotating Navigation
 ->17.Text-speech-reader
+->18.Typing-Game
+->19.breakout game
+->20.hidden search
+->21.lyrics-search
+->22.product-filtering
+->23.progressteps
+->24.relaxer-app
+->25.speak-number-guess
 
