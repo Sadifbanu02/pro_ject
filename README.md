@@ -12,4 +12,11 @@ HTML, CS AND JAVASCRIPT PROJECTS
 ->8.Hungman	
 ->9.Infinite_scroll_Blog	
 ->10.My Landing Page
-->11.
+->11.Meal-finder
+->12.Memory Card
+->13.Movie seat Booking
+->14.Music Player
+->15.New Year
+->16.Rotating Navigation
+->17.Text-speech-reader
+
