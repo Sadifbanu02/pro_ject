@@ -1,6 +1,6 @@
  # HTML, CS AND JAVASCRIPT PROJECTS
 
-25projects
+**25projects**
 
 ->1.Blurry loading     
 ->2.Custom video player  
