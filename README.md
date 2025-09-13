@@ -45,4 +45,24 @@ Each project focuses on a specific concept such as DOM manipulation, APIs, anima
 ## 🛠 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Sadifbanu02/pro_ject.git
+---
+## 🎯 Learning Goals
+
+-  Strengthen core web fundamentals
+-  Practice DOM manipulation
+-  Work with APIs
+-  Build mini-games and UI components
+-  Improve problem-solving & clean coding habits
+---
+⭐ Contribute
+
+This repo is for learning and practice.
+Feel free to fork, explore, and suggest improvements!
+---
+📌 Author
+
+👩‍💻 Created by [Your Name](https://github.com/Sadifbanu02)
+📅 Year: 2025
+
+---
