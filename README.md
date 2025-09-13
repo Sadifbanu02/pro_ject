@@ -1,44 +1,48 @@
- # HTML, CS AND JAVASCRIPT PROJECTS
+# 🎯 HTML, CSS & JavaScript Projects
 
-**25projects**
+This repository contains **25 mini front-end projects** built with **HTML, CSS, and Vanilla JavaScript**.  
+Each project focuses on a specific concept such as DOM manipulation, APIs, animations, or games.
 
-->1.Blurry loading      
+---
 
-->2.Custom video player  
+## 📂 Project List
 
-->3.Dom array method  
+1. Blurry Loading  
+2. Custom Video Player  
+3. DOM Array Methods  
+4. Exchange Rate Calculator  
+5. Expanding Cards  
+6. Expense Tracker  
+7. Form Validator  
+8. Hangman  
+9. Infinite Scroll Blog  
+10. My Landing Page  
+11. Meal Finder  
+12. Memory Card Game  
+13. Movie Seat Booking  
+14. Music Player  
+15. New Year Countdown  
+16. Rotating Navigation  
+17. Text-to-Speech Reader  
+18. Typing Game  
+19. Breakout Game  
+20. Hidden Search Widget  
+21. Lyrics Search App  
+22. Product Filtering  
+23. Progress Steps  
+24. Relaxer App  
+25. Speak Number Guess
 
-->4.Exchange rate calaulator  	
+---
 
-->5.Expanding cards	
+## 🚀 Tech Stack
+- **HTML5**  
+- **CSS3 (Flexbox, Grid, Animations)**  
+- **JavaScript (ES6+, DOM, Fetch API, Web APIs)**
 
-->6.Expense-Tracker	
+---
 
-->7.Form Validator	   
-
-->8.Hungman	
-
-->9.Infinite_scroll_Blog	
-
-->10.My Landing Page
-
-->11.Meal-finder
-
-->12.Memory Card
-
-->13.Movie seat Booking
-->14.Music Player
-->15.New Year
-->16.Rotating Navigation
-->17.Text-speech-reader
-->18.Typing-Game
-->19.breakout game
-->20.hidden search
-->21.lyrics-search
-->22.product-filtering
-->23.progressteps
-->24.relaxer-app
-->25.speak-number-guess
-[visit github](https://github.com/Sadifbanu02)
-![Alt text](<img width="320" height="360" alt="project8" src="https://github.com/user-attachments/assets/b543664c-15a0-4730-a29c-58a0666e43f4" />
-)
+## 🛠 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
