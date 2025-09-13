@@ -40,4 +40,5 @@
 ->24.relaxer-app
 ->25.speak-number-guess
 [visit github](https://github.com/Sadifbanu02)
-![Alt text](https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=1024x1024&w=0&k=20&c=z8_rWaI8x4zApNEEG9DnWlGXyDIXe-OmsAyQ5fGPVV8=)
+![Alt text](<img width="320" height="360" alt="project8" src="https://github.com/user-attachments/assets/b543664c-15a0-4730-a29c-58a0666e43f4" />
+)
