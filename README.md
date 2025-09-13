@@ -8,7 +8,7 @@ HTML, CS AND JAVASCRIPT PROJECTS
 ->4.Exchange rate calaulator  	
 ->5.Expanding cards	
 ->6.Expense-Tracker	
-->7.Form Validator	  
+->7.Form Validator	   
 ->8.Hungman	
 ->9.Infinite_scroll_Blog	
 ->10.My Landing Page
