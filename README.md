@@ -56,7 +56,7 @@ Each project focuses on a specific concept such as DOM manipulation, APIs, anima
 -  Improve problem-solving & clean coding habits
 ---
 ⭐ Contribute
-
+                                 
 This repo is for learning and practice.
 Feel free to fork, explore, and suggest improvements!
 ---
