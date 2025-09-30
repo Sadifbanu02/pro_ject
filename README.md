@@ -58,7 +58,8 @@ Each project focuses on a specific concept such as DOM manipulation, APIs, anima
 -  Build mini-games and UI components
 -  Improve problem-solving & clean coding habits
 ---
-⭐ Contribute
+
+## ⭐ Contribute
                                  
 This repo is for learning and practice.
 Feel free to fork, explore, and suggest improvements!
