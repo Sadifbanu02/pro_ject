@@ -46,7 +46,6 @@ Each project focuses on a specific concept such as DOM manipulation, APIs, anima
 ## 🛠 How to Run Locally
 1. Clone the repository:
    ```bash
-   
    git clone https://github.com/Sadifbanu02/pro_ject.git
 ---
 
