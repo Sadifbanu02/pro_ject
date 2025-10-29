@@ -1,6 +1,6 @@
 # 🎯 HTML, CSS & JavaScript Projects
 
-This repository contains **25 mini front-end projects** built with **HTML, CSS, and Vanilla JavaScript**.   
+This repository contains **25 mini front-end projects** built with **HTML, CSS, and Vanilla JavaScript**.  
 
 Each project focuses on a specific concept such as DOM manipulation, APIs, animations, or games.
               
