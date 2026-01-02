@@ -11,7 +11,7 @@ Each project focuses on a specific concept such as DOM manipulation, APIs, anima
                
 1. Blurry Loading                                 
 2. Custom Video Player                            
-3. DOM Array Methods  
+3. DOM Array Methods                
 4. Exchange Rate Calculator                                 
 5. Expanding Cards          
 6. Expense Tracker                        
