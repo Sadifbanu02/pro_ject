@@ -15,7 +15,7 @@ Each project focuses on a specific concept such as DOM manipulation, APIs, anima
 4. Exchange Rate Calculator                                 
 5. Expanding Cards          
 6. Expense Tracker                        
-7. Form Validator        
+7. Form Validator           
 8. Hangman  
 9. Infinite Scroll Blog  
 10. My Landing Page  
