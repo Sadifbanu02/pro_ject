@@ -4,7 +4,7 @@ This repository contains **25 mini front-end projects** built with **HTML, CSS, 
 
 Each project focuses on a specific concept such as DOM manipulation, APIs, animations, or games.   
                   
-                                                
+                                                      
 ---                 
                
 ## 📂 Project List                                 
